@@ -127,18 +127,18 @@ class AppDrawer extends StatelessWidget {
                 CircleAvatar(
                   radius: 30,
                   backgroundImage: NetworkImage(
-                      'https://www.gstatic.com/flutter-onestack-prototype/genui/example_1.jpg'),
+                      'https://avatars.githubusercontent.com/u/90603939?v=4'),
                 ),
                 SizedBox(height: 8),
                 Text(
-                  'John Doe',
+                  'Mwanje Ronnie and group',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 18,
                   ),
                 ),
                 Text(
-                  'john.doe@example.com',
+                  'ronniemwanje94@gmail.com',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 14,
@@ -214,16 +214,16 @@ class ProfileScreen extends StatelessWidget {
             CircleAvatar(
               radius: 50,
               backgroundImage: NetworkImage(
-                  'https://www.gstatic.com/flutter-onestack-prototype/genui/example_1.jpg'),
+                  'https://avatars.githubusercontent.com/u/90603939?v=4'),
             ),
             SizedBox(height: 16.0),
             Text(
-              'Name: John Doe',
+              'Name: mwanje Ronnie',
               style: TextStyle(fontSize: 18.0),
             ),
             SizedBox(height: 8.0),
             Text(
-              'Email: john.doe@example.com',
+              'Email: ronniemwanje94@gmail.com',
               style: TextStyle(fontSize: 18.0),
             ),
           ],
