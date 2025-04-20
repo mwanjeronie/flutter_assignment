@@ -46,7 +46,7 @@ This project is a starting point for a Flutter application.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   https://github.com/mwanjeronie/flutter_assignment.git
    ```
 
 
